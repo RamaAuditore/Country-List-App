@@ -17,7 +17,7 @@ This is a React-based application that allows users to explore information about
 First, clone the repository to your local machine:
 
 bash
-git clone https://github.com/RamaAuditore/country-app.git
+git clone https://github.com/RamaAuditore/Country-List-App.git
 cd country-app
 
 ### 2. Install Dependencies
