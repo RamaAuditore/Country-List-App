@@ -11,9 +11,9 @@ Flag image
 Interactive chart to display population data.
 Installation
 1. Clone the repository
-First, clone the repository to your local machine:
+First, clone the repository to your local machine:https://github.com/RamaAuditore/Country-List-App.git
 
-bash git clone https://github.com/RamaAuditore/country-app.git cd country-app
+bash git clone https://github.com/RamaAuditore/Country-List-App.git cd country-app
 
 2. Install Dependencies
 For the backend: cd backend npm install
